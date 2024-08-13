@@ -1,6 +1,5 @@
 # Projeto-Engenharia-de-Software-II
--> Tema do Projeto:  Implementação de um programa de capacitação para lideranças 
--> Objetivo do Projeto: O objetivo deste projeto é implementar um programa de capacitação para líderes da empresa XYZ, a fim de melhorar suas habilidades de gestão de pessoas, comunicação e tomada de decisão. O programa deve incluir treinamentos presenciais e online, bem como coaching individual.
+-> Tema do Projeto: Desenvolvimento de um sistema de inteligência artificial para análise de dados Objetivo do Projeto: O objetivo deste projeto é desenvolver um sistema de inteligência artificial para análise de dados na empresa IJKL, a fim de melhorar a tomada de decisão, identificação de tendências e previsão de resultados. O sistema deve ser capaz de processar grandes volumes de dados, ter alta precisão e ser integrado a outros sistemas da empresa.
 
 1 - Primeira Entrega: BackLog do Produto Priorizado, divido por Sprint e US
 2- Segunda Entrega: Prototipo no Figma e US
